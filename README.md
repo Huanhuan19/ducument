@@ -1,0 +1,2 @@
+# ducument
+some small program 
